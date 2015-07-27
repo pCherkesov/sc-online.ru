@@ -16,7 +16,18 @@ header {
   padding-top: 20px; }
 
 .logo {
-  float: left; }
+  float: left;
+  background-image: url("../img/logo.png");
+  height: 108px;
+  width: 356px; }
+
+.cooler {
+  background-image: url("../img/cooler.png");
+  height: 79px;
+  width: 84px;
+  top: 14px;
+  left: 12px;
+  position: relative; }
 
 svg {
   height: 80px;
